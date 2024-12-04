@@ -1,0 +1,19 @@
+TITLE: RPN Calculator
+AUTHOR/PROGRAMMER: Sofiane Lachab
+DATE DUE: 10-13-23
+DATE SUBMITTED: 10-27-23
+COURSE TITLE: Data Structures and Algorithms
+MEETING TIME(S): TTHF 2-3
+DESCRIPTION: Implement the Stack and RPNops interfaces to create an RPNCalculator class that can evaluate an expression from the user.
+HONOR CODE: On my honor, I have neither given nor received unauthorized assistance on this assignment. Sofiane Lachab.
+HOWTO: Download the Stack interface, the RPNops interface, the RPNCalculator class, and the RPNtester class. Run the tester class and
+give an expression in reverse Polish notation (RPN).
+INPUT FILE: NA
+OUTPUT FILE: NA
+BIBLIOGRAPHY: NA
+RESOURCES: NA
+TUTORS: NA
+COMMENTS: This assignment took me approximately 6 hours to complete. The hardest part was figuring out the actual data types and how
+to properly utilize the stack data type to make a calculator. After that, it was mostly simple, but time consuming. I finished the program
+and had a working calculator, but I spent a lot of time rewriting the code to fix spacing issues on Submitty. That is the main reason this is
+being turned in so late, as other than that, the program was finished about a week ago. 
